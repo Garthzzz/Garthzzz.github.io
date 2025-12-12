@@ -35,9 +35,6 @@ I'm also an NBA fan and a devoted Memphis Grizzlies supporter. Dissatisfied with
 
 ![CCST Penn Cup Champions](/images/penncup.jpg)
 
-## What's Next
-
-I am applying to **Data Science PhD programs** and **Financial Engineering master's programs** for Fall 2026, seeking to continue developing interpretable machine learning methods with real-world impact.
 
 ## Contact
 
