@@ -23,12 +23,12 @@ repository               : "Garthzzz/Garthzzz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhengze Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Statistics M.A. @ Columbia. Research interests: symbolic regression, machine learning, and data science applications in climate and finance."
   location         : "New York, NY"
-  employer         : "Columbia University in the City of New York"
+  employer         : "Columbia University"
   uri              : # URL
   email            : "zhangzhengze2018@gmail.com"
 
