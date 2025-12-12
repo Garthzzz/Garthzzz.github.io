@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Statistics M.A. student (Machine Learning track) at **Columbia University**, contributing to multiple research projects across climate science, computational biology, and quantitative finance. I hold dual B.S. degrees in Mathematics and Physics from UC Santa Barbara.
+I am a Statistics M.A. student (Machine Learning track) at **Columbia University**, contributing to multiple research projects across climate science, computational biology, and quantitative finance. I hold B.S. degree in Mathematics and B.A. degree in Mathematics Physics from **UC Santa Barbara**.
 
 Before graduate school, I worked as a **Derivatives Analyst at SDIC Securities** in Shanghai, where I backtested trading strategies and built Python tools for exotic options like Snowball structures. That experience grounded my research in real-world applications—quantitative rigor must translate into informed decision-making.
 
@@ -29,9 +29,9 @@ Beyond symbolic regression, I also contribute to several other research projects
 
 Outside of research, I'm a sports enthusiast—I love soccer, basketball, hiking, and cycling.
 
-In soccer, I served as **Captain of CCST Future** during the Spring 2025 season—a team under the Columbia Chinese Student Soccer Team designed for beginners and hobbyists. I create space for newcomers to find their footing in a new city, organizing training for players of varying skill levels and fostering an environment where competition coexists with mutual support. I am also a **committee member and player for CCST's competitive main squad**, where I coordinated logistics off the field and competed on it—winning the **Penn Cup Championship** together in March 2025.
+In soccer, I served as Captain of CCST Future during the Spring 2025 season—a team under the Columbia Chinese Student Soccer Team designed for beginners and hobbyists. I create space for newcomers to find their footing in a new city, organizing training for players of varying skill levels and fostering an environment where competition coexists with mutual support. I am also a committee member and player for CCST's competitive main squad, where I coordinated logistics off the field and competed on it—winning the **Penn Cup Championship** together in March 2025.
 
-I'm also an NBA fan and a devoted **Memphis Grizzlies** supporter. Dissatisfied with existing advanced metrics, I developed my own player impact model in 2025: the [Bayesian Enhanced Baseline-and-Residual Model (BEBRM)](https://github.com/Garthzzz/nba-BEBRM). Unlike traditional metrics that rely heavily on box-score statistics or pure on/off differentials, BEBRM integrates non-traditional data sources (defensive matchup outcomes, hustle stats, Synergy play-type efficiencies) into a Bayesian prior baseline, then applies iterative possession-level residual corrections. The model provides explicit uncertainty quantification through credible intervals—particularly valuable for evaluating players with limited sample sizes.
+I'm also an NBA fan and a devoted Memphis Grizzlies supporter. Dissatisfied with existing advanced metrics, I developed my own player impact model in 2025: the [Bayesian Enhanced Baseline-and-Residual Model (BEBRM)](https://github.com/Garthzzz/nba-BEBRM). Unlike traditional metrics that rely heavily on box-score statistics or pure on/off differentials, BEBRM integrates non-traditional data sources (defensive matchup outcomes, hustle stats, Synergy play-type efficiencies) into a Bayesian prior baseline, then applies iterative possession-level residual corrections. The model provides explicit uncertainty quantification through credible intervals—particularly valuable for evaluating players with limited sample sizes.
 
 ![CCST Penn Cup Champions](/images/penncup.jpg)
 
