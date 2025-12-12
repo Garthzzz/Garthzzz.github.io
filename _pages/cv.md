@@ -1,64 +1,50 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "CV"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+You can download my full CV here: [CV (PDF)](/files/resume.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Columbia University**, New York, NY  
+M.A. in Statistics (Machine Learning Track) | Sep 2024 – Present  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**University of California, Santa Barbara**  
+B.S. in Mathematics & B.S. in Physics (Double Major) | Sep 2018 – Jun 2023
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Professional Experience
+
+**SDIC Securities Co., Ltd.** | Shanghai, China  
+Derivatives Analyst Intern | Sep 2023 – Apr 2024  
+- Backtested options and futures strategies using Python and Excel VBA
+- Developed automated daily reporting system, reducing manual processing time by 60%
+- Collaborated on structured product pricing and hedging strategies
+
+**Taxpanda Inc.** | New York, USA  
+Data Analyst Intern | Jun 2022 – Aug 2022  
+- Designed interactive Tableau dashboards for executive reporting
+- Processed large-scale financial datasets for tax compliance
+
+---
+
+## Skills
+
+**Programming**: Python (NumPy, pandas, scikit-learn, PyTorch), SQL, Excel VBA, R, LaTeX, Git
+
+**Machine Learning**: Symbolic Regression, Dimensionality Reduction, Clustering, Time-Series Analysis, Deep Learning
+
+**Finance**: Options Pricing, Portfolio Optimization, Risk Management, Backtesting
+
+**Languages**: Mandarin (native), English (near-native)
+
+---
+
+## Test Scores
+
+- GRE: 332 (Verbal 162 + Quant 170)
