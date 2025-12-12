@@ -9,8 +9,9 @@ redirect_from:
 
 I am a Statistics M.A. student (Machine Learning track) at **Columbia University**, maintaining a 3.9 GPA while contributing to multiple research projects across climate science, computational biology, and quantitative finance. I hold dual B.S. degrees in Mathematics and Physics from UC Santa Barbara.
 
-## Research Focus
+Before graduate school, I worked as a **Derivatives Analyst at SDIC Securities** in Shanghai, where I backtested trading strategies and built Python tools for exotic options like Snowball structures. That experience grounded my research in real-world applications—quantitative rigor must translate into informed decision-making.
 
+## Research Focus
 My research centers on developing **physics-informed symbolic regression** algorithms that discover interpretable equations from noisy, high-dimensional data. At Columbia's [LEAP Center](https://leap.columbia.edu/), I work with Dr. Kara Lamb on next-generation methods for scientific discovery—designing frameworks that achieve 50-1000x noise robustness improvement over traditional approaches.
 
 What excites me most is the **cross-domain generalizability** of these methods. The same algorithmic innovations that help us understand cloud microphysics can be adapted—with appropriate modifications for low signal-to-noise environments—to predict financial returns or model clinical outcomes. We have made progress applying this framework to finance: given the extremely low SNR characteristic of financial data, we incorporated task-aware wavelet denoising and replaced point estimates with interval-valued coefficients to honestly reflect uncertainty. See our [Financial Symbolic Regression project](https://github.com/Garthzzz/Financial-Symbolic-Regression-with-Uncertainty-Quantification) for more details.
