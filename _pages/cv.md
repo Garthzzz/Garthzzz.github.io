@@ -14,7 +14,7 @@ You can download my full CV here: [CV (PDF)](/files/resume.pdf)
 M.A. in Statistics (Machine Learning Track) | Sep 2024 – Present  
 
 **University of California, Santa Barbara**  
-B.S. in Mathematics & B.S. in Physics (Double Major) | Sep 2018 – Jun 2023
+B.S. in Mathematics & B.A. in Physics  | Sep 2018 – Jun 2023
 
 ---
 
