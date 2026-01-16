@@ -7,12 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Statistics M.A. student (Machine Learning track) at **Columbia University**, contributing to multiple research projects across climate science, computational biology, and quantitative finance. I hold B.S. degree in Mathematics and B.A. degree in Mathematics Physics from **UC Santa Barbara**.
+I am a Statistics M.A. student (Machine Learning track) at **Columbia University**, contributing to multiple research projects across climate science, computational biology, and quantitative finance. I hold dual bachelor's degrees in Mathematics and Physics from **UC Santa Barbara**.
 
 Before graduate school, I worked as a **Derivatives Analyst at SDIC Securities** in Shanghai, where I backtested trading strategies and built Python tools for exotic options like Snowball structures. That experience grounded my research in real-world applications—quantitative rigor must translate into informed decision-making.
 
 ## Research Focus
-My research centers on developing **physics-informed symbolic regression** algorithms that discover interpretable equations from noisy, high-dimensional data. At Columbia's [LEAP Center](https://leap.columbia.edu/), I work with Dr. Kara Lamb on next-generation methods for scientific discovery—designing frameworks that achieve 50-1000x noise robustness improvement over traditional approaches.
+
+My research centers on developing **physics-informed symbolic regression** algorithms that discover interpretable equations from noisy, high-dimensional data. The core idea is **PySR-guided E-WSINDy**: using PySR's genetic programming to discover equation structures, then using E-WSINDy's weak-form sparse regression to refine coefficients with rigorous uncertainty quantification. The weak-form integral formulation provides noise robustness by transferring derivatives from noisy data to smooth test functions.
+
+The current framework implements a complete pipeline:
+- **Physics-informed feature engineering**: Buckingham Pi dimensional analysis and power-law symmetry detection
+- **Dual-track model selection**: PySR for structure discovery + E-WSINDy for sparse regression with a 5-layer augmented feature library
+- **Three-layer uncertainty quantification**: structural, parametric, and predictive uncertainty
+
+See the full implementation: [Physics-Informed-Symbolic-Regression](https://github.com/Garthzzz/Physics-Informed-Symbolic-Regression)
+
+At Columbia's [LEAP Center](https://leap.columbia.edu/), I work with Dr. Kara Lamb on applying these methods to warm rain microphysics—discovering interpretable equations for autoconversion and accretion processes from high-dimensional LES simulation data.
 
 What excites me most is the **cross-domain generalizability** of these methods. The same algorithmic innovations that help us understand cloud microphysics can be adapted—with appropriate modifications for low signal-to-noise environments—to predict financial returns or model clinical outcomes. We have made progress applying this framework to finance: given the extremely low SNR characteristic of financial data, we incorporated task-aware wavelet denoising and replaced point estimates with interval-valued coefficients to honestly reflect uncertainty. See our [Financial Symbolic Regression project](https://github.com/Garthzzz/Financial-Symbolic-Regression-with-Uncertainty-Quantification) for more details.
 
