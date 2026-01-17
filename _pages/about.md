@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Statistics M.A. student (Machine Learning track) at **Columbia University**, contributing to multiple research projects across climate science, computational biology, and quantitative finance. I hold dual bachelor's degrees in Mathematics and Physics from **UC Santa Barbara**.
+I am a Statistics M.A. student (Advanced Machine Learning track) at **Columbia University**, contributing to multiple research projects across climate science, computational biology, and quantitative finance. I hold dual bachelor's degrees in Mathematics and Physics from **UC Santa Barbara**.
 
 Before graduate school, I worked as a **Derivatives Analyst at SDIC Securities** in Shanghai, where I backtested trading strategies and built Python tools for exotic options like Snowball structures. That experience grounded my research in real-world applications—quantitative rigor must translate into informed decision-making.
 
