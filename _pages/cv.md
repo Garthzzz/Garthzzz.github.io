@@ -60,8 +60,4 @@ Vice Captain; IMLeagues Championship | Jun 2021 – Jun 2023
 
 **Languages**: Mandarin (native), English (near-native)
 
----
 
-## Test Scores
-
-GRE: 332 (Verbal 162 + Quant 170)
