@@ -6,17 +6,19 @@ author_profile: true
 
 ## Symbolic Regression & Scientific Discovery
 
+### Physics-Informed Symbolic Regression Framework
+**LEAP Center, Columbia University** | Aug 2025 – Present  
+*Advisors: Prof. Tian Zheng, Dr. Kara Lamb*
+
+Developing a physics-informed symbolic regression framework for discovering interpretable equations from noisy, high-dimensional data. The core idea is PySR-guided E-WSINDy: using PySR's genetic programming to discover equation structures, then using E-WSINDy's weak-form sparse regression to refine coefficients with rigorous uncertainty quantification. The weak-form integral formulation provides noise robustness by transferring derivatives from noisy data to smooth test functions.
+
+The framework implements: (1) Buckingham Pi dimensional analysis and power-law symmetry detection for physics-guided feature engineering; (2) a 5-layer augmented feature library with dual-track model selection (PySR + E-WSINDy); and (3) three-layer uncertainty quantification covering structural, parametric, and predictive uncertainty. Currently applying to warm rain microphysics—discovering interpretable parameterizations for autoconversion and accretion processes from LES simulation data.
+
 ### Constrained Symbolic Regression for Financial Return Prediction
 **Columbia University** | Oct 2025 – Present  
 *Advisors: Prof. Tian Zheng, Dr. Kara Lamb, Dr. Mikhail Smirnov*
 
 Developed a Constrained Symbolic Regression (CSR) framework for equity premium prediction. Key innovations include task-aware wavelet denoising, stability selection via bootstrap resampling, and soft constraints with interval estimation to handle low signal-to-noise environments. Validated across equity returns, Treasury yields, and volatility forecasting.
-
-### Cloud Microphysics Emulation: Next-Generation Symbolic Regression
-**LEAP Center, Columbia University** | Aug 2025 – Present  
-*Advisor: Dr. Kara Lamb, Prof. Tian Zheng*
-
-Designed a three-stage symbolic regression framework integrating E-WSINDy, LaSR, and AI Feynman, achieving 50-1000x noise robustness improvement. Applied Hessian-based decomposition and Buckingham π theorem for dimensional analysis. Developed bootstrap ensemble methods for uncertainty quantification with physics-informed constraints.
 
 ---
 
