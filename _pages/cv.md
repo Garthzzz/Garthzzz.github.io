@@ -30,17 +30,23 @@ Data Analyst Intern | Jun 2022 – Aug 2022
 
 ## Activities
 
-**Guest Lecturer**, Columbia STAT 5205 Linear Regression Models | Feb 2025
+**Columbia STAT 5205 Linear Regression Models**  
+Guest Lecturer | Feb 2025
 
-**Research Affiliate**, Columbia LEAP Center | Aug 2025 – Present
+**Columbia LEAP Center**  
+Research Affiliate | Aug 2025 – Present
 
-**Attendee**, Columbia DSI ML/AI Seminar; LEAP Lecture in Climate Data Science | Fall 2025
+**Columbia DSI ML/AI Seminar; LEAP Lecture in Climate Data Science**  
+Attendee | Fall 2025
 
-**Captain**, CCST Future Soccer Team | Jan – Jun 2025
+**CCST Future Soccer Team**  
+Captain | Jan – Jun 2025
 
-**Committee Member**, Columbia Chinese Soccer Team; Penn Cup Champion | Jan 2025 – Present
+**Columbia Chinese Soccer Team**  
+Committee Member; Penn Cup Champion | Jan 2025 – Present
 
-**Vice Captain**, UCSB Chinese Soccer Team; IMLeagues Championship | Jun 2021 – Jun 2023
+**UCSB Chinese Soccer Team**  
+Vice Captain; IMLeagues Championship | Jun 2021 – Jun 2023
 
 ---
 
